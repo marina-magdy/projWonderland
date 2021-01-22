@@ -1,0 +1,26 @@
+{
+    "name": "wonderland",
+    "version": "0.0.2",
+    "description": "winter wonderland  game",
+    "main": "server.js",
+    "scripts": {
+    },
+    "keywords": [
+      "wonderland",
+      "game"
+    ],
+    "author": "marina-magdy",
+    "license": "MIT",
+    "dependencies": {
+      "socket.io": "latest",
+      "express.io": "latest",
+      "express": "latest"
+    },
+    "engines": {
+      "node": "14.15.4"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/marina-magdy/WonderlandGraphics"
+    }
+  }
